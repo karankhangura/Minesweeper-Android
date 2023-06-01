@@ -1,0 +1,33 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id button1
+id button2
+id customTextView
+id gridLayout01
+id textView
+id textView00
+id textView01
+id textView02
+id textViewNumberFlags
+layout activity_display_message
+layout activity_main
+layout custom_cell_layout
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string clock
+string flag
+string mine
+string pick
+style Theme.GridLayout
+xml backup_rules
+xml data_extraction_rules
